@@ -30,7 +30,7 @@ https://github.com/fanfeilong/rchain/rchain.js
 输出：替换后的return语句，在vscode下可以ctrl+鼠标点击跳转
 
 
-![](./img/hello.png)
+![](https://github.com/fanfeilong/rchain/blob/master/img/hello.png)
 
 ## 简单需求升级：
 打印return前一行非空代码
